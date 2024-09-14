@@ -26,8 +26,5 @@
   <a href = "mailto:abreuclariana"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://web.telegram.org/a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/clariana.abreu/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/abreuclariana/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
