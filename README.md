@@ -1,7 +1,7 @@
-## Olá! Eu sou a Clariana Abreu 👋
+## Hi, I'm Clariana Abreu 👋
 
-- 🔭 Hoje eu trabalho com front-end (Front-end Developer) ...
-- 🌱 Estudando JavaScript e Typescript ...
+- 🔭 Today I work with front-end ...
+- 🌱 Estudying JavaScript e Typescript ...
 
 <div>
   <a href="https://github.com/abreuclariana/abreuclariana">
@@ -10,7 +10,7 @@
 </div>
   <div>
     
-  ## Estou estudando
+  ## I'm perfecting
 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -19,7 +19,7 @@
 
 </div>
 
- ## Contatos:
+ ## Contacts:
 <div>
   <a href="https://www.linkedin.com/in/clariana-abreu-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
      target="_blank"></a> 
