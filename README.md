@@ -4,15 +4,11 @@
 
 🔭My name is Clariana Abreu, I have a degree in Systems Analysis and Development from Estácio de Sá and I'm passionate about programming. I served for three years in the Brazilian Navy as a Computer Network Technician, where I acquired discipline, resilience and solid technical skills. I specialized in HTML5, CSS3, JavaScript, React.js, Next.js and Git/GitHub, participating in real projects to create innovative solutions. My goal is to continue evolving, combining my military experience with my passion for software development to face challenges and generate positive impact.
 
-Translated with DeepL.com (free version)
 ---
 
  <div>
     
   ### 🤖 Languages & technologies
-
-  
-  
 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
