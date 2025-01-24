@@ -2,9 +2,9 @@
 
 **` Front-End Developer `**
 
-🔭 Meu nome é Clariana Abreu, sou formada em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e apaixonada por programação. Minha jornada no universo da tecnologia começou na Marinha do Brasil, onde servi por três anos como Técnica em Redes de Computadores no setor de Serviço de Tecnologia da Informação da Base Naval de Aratu. Essa experiência foi fundamental para o meu crescimento profissional, especialmente por me ensinar valores como disciplina, resiliência e a importância de cumprir prazos e ordens com prontidão e excelência. Foi nesse ambiente que desenvolvi habilidades técnicas sólidas e despertei meu interesse pelo desenvolvimento web. Desde então, venho me especializando em HTML5, CSS3, JavaScript, Reactjs e Nextjs e versionamento de código (Git e GitHub), explorando cada vez mais o potencial dessas ferramentas na criação de soluções inovadoras. Para aprimorar minhas habilidades, participei de projetos reais que testaram minha criatividade e me permitiram aplicar os conhecimentos adquiridos de forma prática. Meu objetivo é seguir evoluindo como profissional, aliando a organização e o foco adquiridos na carreira militar à paixão pelo desenvolvimento de software. Acredito que essa combinação me torna uma programadora diferenciada, preparada para enfrentar desafios e construir soluções que gerem impacto positivo.
+🔭My name is Clariana Abreu, I have a degree in Systems Analysis and Development from Estácio de Sá and I'm passionate about programming. I served for three years in the Brazilian Navy as a Computer Network Technician, where I acquired discipline, resilience and solid technical skills. I specialized in HTML5, CSS3, JavaScript, React.js, Next.js and Git/GitHub, participating in real projects to create innovative solutions. My goal is to continue evolving, combining my military experience with my passion for software development to face challenges and generate positive impact.
 
-
+Translated with DeepL.com (free version)
 ---
 
  <div>
