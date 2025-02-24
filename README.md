@@ -26,11 +26,11 @@
 ---
 
 
-<div>
-  <a href="https://github.com/abreuclariana/abreuclariana">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuclariana&layout=compact&langs_count=10&theme=dark&count_private=true&cache_seconds=1800"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=abreuclariana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
+<div align="center">
+  <a href="https://github.com/abreuclariana">
+    <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuclariana&layout=compact&langs_count=10&theme=dark&count_private=true&cache_seconds=1800"/>
+  </a>
+  <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=abreuclariana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </div>
 
  
