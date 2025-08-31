@@ -2,7 +2,7 @@
 
 **` Front-End Developer `**
 
-🔭My name is Clariana Abreu, I have a degree in Systems Analysis and Development from Estácio de Sá and I'm passionate about programming. I served for three years in the Brazilian Navy as a Computer Network Technician, where I acquired discipline, resilience and solid technical skills. I specialized in HTML5, CSS3, JavaScript, Python, React.js, Next.js and Git/GitHub, participating in real projects to create innovative solutions. My goal is to continue evolving, combining my military experience with my passion for software development to face challenges and generate positive impact.
+🔭My name is Clariana Abreu, I have a degree in Systems Analysis and Development from Estácio de Sá and I'm passionate about programming. I served for three years in the Brazilian Navy as a Computer Network Technician, where I acquired discipline, resilience and solid technical skills. I specialized in HTML5, CSS3, JavaScript, Typescript, React.js, Next.js and Git/GitHub, participating in real projects to create innovative solutions. My goal is to continue evolving, combining my military experience with my passion for software development to face challenges and generate positive impact.
 
 ---
 
