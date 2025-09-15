@@ -50,7 +50,7 @@ My goal is to keep evolving, combining my military background with software deve
   <a href="mailto:abreuclariana@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/seuusername" target="_blank">
+  <a href="https://t.me/clarianaabreu target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
