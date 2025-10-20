@@ -16,6 +16,7 @@ My goal is to keep evolving, combining my military background with software deve
 
 <div>
 
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
@@ -32,8 +33,13 @@ My goal is to keep evolving, combining my military background with software deve
 </div>
 
 ---
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abreuclariana&layout=compact&theme=radical)
-## 📬 Contacts:
+<p >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuclariana&layout=compact&theme=radical&langs_count=18" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abreuclariana&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+📬 Contacts:
+<div>
+  <br>
 <a href="https://www.linkedin.com/in/clariana-abreu-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
@@ -43,5 +49,6 @@ My goal is to keep evolving, combining my military background with software deve
 <a href="https://t.me/clarianaabreu" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+</div>
 
 
