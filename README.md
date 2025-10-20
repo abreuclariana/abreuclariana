@@ -51,4 +51,3 @@ My goal is to keep evolving, combining my military background with software deve
 </a>
 </div>
 
-
