@@ -32,7 +32,7 @@ My goal is to keep evolving, combining my military background with software deve
 </div>
 
 ---
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abreuclariana&layout=compact&theme=radical)
 ## 📬 Contacts:
 <a href="https://www.linkedin.com/in/clariana-abreu-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
