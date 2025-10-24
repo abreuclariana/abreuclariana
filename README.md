@@ -35,7 +35,7 @@ My goal is to keep evolving, combining my military background with software deve
 ---
 <p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuclariana&layout=compact&theme=radical&langs_count=18" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abreuclariana&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abreuclariana&show_icons=true&theme=radical&cache_buster=1672345987" alt="GitHub Stats" />
 </p>
 📬 Contacts:
 <div>
