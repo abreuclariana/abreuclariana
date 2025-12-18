@@ -77,6 +77,7 @@ Impact: Established a production-ready extension with a clean and responsive UI,
 ---
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuclariana&layout=compact&theme=radical" alt="Linguagens Rosa" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abreuclariana&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </p>
 📬 Contacts:
 <div>
