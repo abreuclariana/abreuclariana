@@ -75,8 +75,8 @@ Impact: Established a production-ready extension with a clean and responsive UI,
 </div>
 
 ---
-<p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuclariana&layout=compact&theme=radical&langs_count=18" alt="Most Used Languages" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuclariana&layout=compact&theme=radical" alt="Linguagens Rosa" />
 </p>
 📬 Contacts:
 <div>
