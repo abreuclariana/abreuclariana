@@ -74,22 +74,8 @@ I specialize in building scalable, high-performance web applications. My core st
 
 </div>
 
----
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuclariana&layout=compact&theme=radical" alt="Linguagens Rosa" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abreuclariana&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</p>
-📬 Contacts:
-<div>
-  <br>
-<a href="https://www.linkedin.com/in/clariana-abreu-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>  
-<a href="mailto:abreuclariana@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://t.me/clarianaabreu" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-</div>
+
+### 📫 Connect with me
+* **Upwork:** Work with me https://www.upwork.com/freelancers/~01d2dbae59f1642147?viewMode=1
+* **LinkedIn:** Clariana Abreu https://www.linkedin.com/in/clariana-abreu-dev/
 
