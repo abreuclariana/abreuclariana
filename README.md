@@ -42,6 +42,8 @@ I specialize in building scalable, high-performance web applications. My core st
 * **Role:** Full-Stack Development Lead.
 * **Architecture:** Orchestrated a microservices environment using **Node.js, Django, and Docker**.
 * **Impact:** Developed a trilingual, highly accessible interface for children and educators.
+* **linkedin** https://www.linkedin.com/company/happykids-ai-the-book-of-life/posts/?feedView=all
+* **website** https://happy-kids.lu/
 
 #### 3. AI SEO Analysis Chrome Extension - 🇨🇦 Canada
 *Browser-based tool for real-time SEO scoring.*
