@@ -1,56 +1,56 @@
 # 👩🏻‍💻 Clariana Abreu
+**` Senior Front-End Developer | React, Next.js & AI Specialist `**
 
-**` Front-End Developer | React & Next.js Enthusiast `**
+[![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top%20Rated-blue?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01e3090632d43e597c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clariana-abreu/)
 
-🔭My name is Clariana Abreu, I hold a degree in Systems Analysis and Development from Estácio de Sá, and I am passionate about programming.
-I served for three years in the Brazilian Navy as a Computer Network Technician, where I developed discipline, resilience, and strong technical skills.
+---
 
-Currently, I specialize in React.js, Next.js, and TypeScript, using these technologies to develop scalable web applications for over 3 years. I work as a Freelance Developer on Upwork and lead the Front-End development efforts at HappyKids.ai, a non-profit company focusing on the mental health and well-being of children and young people. My expertise also includes Node.js and databases like MongoDB and PostgreSQL.
+### ⚓ Background & Discipline
+My name is **Clariana Abreu**, and I hold a degree in **Systems Analysis and Development**. 
+Before transitioning to software engineering, I served for **three years in the Brazilian Navy** as a Computer Network Technician. This experience forged the discipline, resilience, and high-level technical standards that I apply to every line of code I write today.
 
-My goal is to continue evolving, combining my military background with software development expertise to tackle challenges and generate a positive impact.
+---
 
-Portfolio / Featured Projects and Consulting Results
+### 🚀 Professional Expertise
+I specialize in building scalable, high-performance web applications. My core stack includes **React.js, Next.js, and TypeScript**, with over 3 years of deep technical execution.
 
-My work encompasses high-performance web development, modern full-stack architecture, and specialized tooling, focusing on clean code, scalability, and user experience across different international contexts.
+* **Current Lead:** Front-End Development Lead at **HappyKids.ai** (Luxembourg), an educational platform focused on children's mental health.
+* **Freelance Expert:** Top Rated Developer on **Upwork**, delivering solutions for international clients (Canada, Brazil, Luxembourg).
+* **AI Integrator:** Expert in implementing **AI Agents** and semantic search solutions to enhance user experiences.
 
-1. Consulting Scheduler (Next.js SaaS) - 🇧🇷 Brazil
+---
 
-A complete, interactive scheduling and booking system, built to demonstrate full-stack SaaS capabilities, including payment processing and advanced AI integration.
+### 🛠️ Tech Stack
+* **Frontend:** React 19, Next.js 16 (App Router), TypeScript, Tailwind CSS, Vite, Zustand.
+* **Backend:** Node.js, Express, Python (Django).
+* **Database & Tools:** PostgreSQL (Supabase), MongoDB, Docker, Nginx, Stripe API.
+* **AI:** OpenAI API (GPT-4o), pgvector (Semantic Memory), Web Scraping (Cheerio).
 
-Core Functionality: Interactive calendar with dynamic availability, booking management, and trilingual support.
+---
 
-Financial Integration: Real payment processing via Stripe (Elements and Webhooks).
+### 📂 Featured Projects & Results
 
-AI: Floating chat assistant powered by OpenAI GPT-4o-mini with conversation history and semantic memory, using Supabase pgvector for context-aware responses.
+#### 1. Consulting Scheduler (Next.js SaaS) - 🇧🇷 Brazil
+*A high-performance SaaS for automated scheduling and AI-driven support.*
+* **AI-Powered:** Floating chat assistant with **semantic memory** using `pgvector` for context-aware responses.
+* **Financials:** Full Stripe integration (Elements & Webhooks) for real-time payment processing.
+* **Stack:** Next.js 16, React 19, Supabase, Deno Edge Functions.
 
-Frontend Technologies: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS, Zustand.
+#### 2. Happy Kids Academy S.I.S. - 🇱🇺 Luxembourg
+*Leading the front-end for a multi-service educational platform.*
+* **Role:** Full-Stack Development Lead.
+* **Architecture:** Orchestrated a microservices environment using **Node.js, Django, and Docker**.
+* **Impact:** Developed a trilingual, highly accessible interface for children and educators.
 
-Backend & DB Technologies: Supabase (PostgreSQL), Edge Functions (Deno), Stripe, OpenAI API.
-
-Data Tools: Cheerio (Web Scraping), date-fns, clsx.
-
-2. Happy Kids Academy S.I.S. (Full-Stack & Microservices) - 🇱🇺 Luxembourg
-
-Role: Full-Stack Development Lead for Happy-Kids, an educational platform focused on emotional exploration and well-being for children and young people.
-
-Frontend & Main Platform: Led visual design and Front-End development for the main application, using Vite, TypeScript, Tailwind CSS.
-
-Backend (Legacy): Core application logic and data persistence, using Django, Python, PostgreSQL.
-
-Microservice: Dedicated backend for exercise management, using Node.js, Express, PostgreSQL.
-
-Infrastructure: Ensured consistent deployment and scalability, using Docker, Nginx.
-
-
-3. Chrome Extension for AI SEO Analysis - 🇨🇦 Canada
-
-Role: Front-End Engineer and UX Contributor for a browser extension focused on Artificial Intelligence.
-
-Functionality: Developed the Front-End and implemented core scoring logic using DOM analysis and Chrome Extension Manifest V3 for on-page SEO scoring (H1s, Meta descriptions, etc.).
-
-Impact: Established a production-ready extension with a clean and responsive UI, prepared for future integration with the OpenAI API.
+#### 3. AI SEO Analysis Chrome Extension - 🇨🇦 Canada
+*Browser-based tool for real-time SEO scoring.*
+* **Innovation:** Implemented scoring logic via DOM analysis using **Manifest V3**.
+* **Result:** A production-ready extension with a responsive UI prepared for OpenAI API scaling.
 
 
+---
+*"Combining military precision with modern software engineering to build high-impact digital products."*
 ---
 
 ### 🤖 Languages & Tools
