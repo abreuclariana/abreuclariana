@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Clariana Abreu
 **` Senior Front-End Developer | React, Next.js & AI Specialist `**
 
-[![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top%20Rated-blue?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01e3090632d43e597c)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clariana-abreu/)
+[![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top%20Rated-blue?style=for-the-badge&logo=upwork)]((https://www.upwork.com/freelancers/~01d2dbae59f1642147?viewMode=1))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clariana-abreu-dev/)
 
 ---
 
