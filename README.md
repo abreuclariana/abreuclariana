@@ -22,7 +22,7 @@ I specialize in building scalable, high-performance web applications. My core st
 ---
 
 ### 🛠️ Tech Stack
-* **Frontend:** React 19, Next.js 16 (App Router), TypeScript, Tailwind CSS, Vite, Zustand.
+* **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Vite, Zustand.
 * **Backend:** Node.js, Express, Python (Django).
 * **Database & Tools:** PostgreSQL (Supabase), MongoDB, Docker, Nginx, Stripe API.
 * **AI:** OpenAI API (GPT-4o), pgvector (Semantic Memory), Web Scraping (Cheerio).
@@ -35,7 +35,7 @@ I specialize in building scalable, high-performance web applications. My core st
 *A high-performance SaaS for automated scheduling and AI-driven support.*
 * **AI-Powered:** Floating chat assistant with **semantic memory** using `pgvector` for context-aware responses.
 * **Financials:** Full Stripe integration (Elements & Webhooks) for real-time payment processing.
-* **Stack:** Next.js 16, React 19, Supabase, Deno Edge Functions.
+* **Stack:** Next.js, React, Supabase, Deno Edge Functions.
 
 #### 2. Happy Kids Academy S.I.S. - 🇱🇺 Luxembourg
 *Leading the front-end for a multi-service educational platform.*
