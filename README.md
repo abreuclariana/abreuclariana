@@ -24,7 +24,7 @@ I specialize in building scalable, high-performance web applications. My core st
 ### 🛠️ Tech Stack
 * **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Vite, Zustand.
 * **Backend:** Node.js, Express, Python (Django).
-* **Database & Tools:** PostgreSQL (Supabase), MongoDB, Docker, Nginx, Stripe API.
+* **Database & Tools:** PostgreSQL (Supabase), MongoDB, RAG, Stripe API.
 * **AI:** OpenAI API (GPT-4o), pgvector (Semantic Memory), Web Scraping (Cheerio).
 
 ---
@@ -66,7 +66,9 @@ I specialize in building scalable, high-performance web applications. My core st
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/></td>
+    
   </tr>
 </table>
   
