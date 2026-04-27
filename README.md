@@ -40,7 +40,7 @@ I specialize in building scalable, high-performance web applications. My core st
 #### 2. Happy Kids Academy S.I.S. - 🇱🇺 Luxembourg
 *Leading the front-end for a multi-service educational platform.*
 * **Role:** Full-Stack Development Lead.
-* **Architecture:** Orchestrated a microservices environment using **Node.js, Django, and Docker**.
+* **Architecture:** Orchestrated a microservices environment using **Node.js, Django**.
 * **Impact:** Developed a trilingual, highly accessible interface for children and educators.
 * **website** https://happy-kids.lu/
 
