@@ -1,60 +1,51 @@
 # 👩🏻‍💻 Clariana Abreu
-**` Senior Fullstack Developer | React, Next.js & AI Specialist `**
+**` Senior Fullstack SaaS Developer | Next.js, Supabase & React Native Specialist `**
 
-[![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top%20Rated-blue?style=for-the-badge&logo=upwork)]((https://www.upwork.com/freelancers/~01d2dbae59f1642147?viewMode=1))
+[![Upwork Top Rated Plus](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-blue?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01d2dbae59f1642147)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clariana-abreu-dev/)
 
 ---
 
 ### ⚓ Background & Discipline
-My name is **Clariana Abreu**, and I hold a degree in **Systems Analysis and Development**. 
-Before transitioning to software engineering, I served for **three years in the Brazilian Navy** as a Computer Network Technician. This experience forged the discipline, resilience, and high-level technical standards that I apply to every line of code I write today.
+My name is **Clariana Abreu**, and I am a **Top Rated Plus** Software Engineer. 
+Before transitioning to software engineering, I served for **three years in the Brazilian Navy** as a Computer Network Technician. This experience forged the extreme discipline, accountability, and zero-tolerance for failure that I apply to building resilient SaaS architectures today.
 
 ---
 
 ### 🚀 Professional Expertise
-I specialize in building scalable, high-performance web applications. My core stack includes **React.js, Next.js, and TypeScript**, with over 3 years of deep technical execution.
+I specialize in building production-ready SaaS MVPs and scaling complex platforms. I focus on **Next.js, Supabase, and React Native**, delivering clean code that drives revenue.
 
-* **Current Lead:** Front-End Development Lead at **HappyKids.ai** (Luxembourg), an educational platform focused on children's mental health.
-* **Freelance Expert:** Top Rated Developer on **Upwork**, delivering solutions for international clients (Canada, Brazil, Luxembourg).
-* **AI Integrator:** Expert in implementing **AI Agents** and semantic search solutions to enhance user experiences.
-
----
-
-### 🛠️ Tech Stack
-* **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Vite, Zustand.
-* **Backend:** Node.js, Express, Python (Django).
-* **Database & Tools:** PostgreSQL (Supabase), MongoDB, RAG, Stripe API.
-* **AI:** OpenAI API (GPT-4o), pgvector (Semantic Memory), Web Scraping (Cheerio).
+* **Current Lead:** Lead Engineer for **Beepr**, spearheading a critical migration from Capacitor to a high-performance **React Native (Expo Bare Workflow)** architecture.
+* **Global Impact:** Lead Developer for **HappyKids.ai** (Luxembourg), recognized as a **Global Top 30 AI Social Impact** product.
+* **SaaS Expert:** Specialized in multi-tenant architectures, Real-Time Database (Supabase/PostgreSQL), and complex financial integrations (Stripe).
+* **AI Integration:** Expert in implementing AI-driven workflows, RAG, and semantic search using `pgvector`.
 
 ---
 
 ### 📂 Featured Projects & Results
 
-#### 1. Consulting Scheduler (Next.js SaaS) - 🇧🇷 Brazil
+#### 1. Project Beepr (Current) - 🇺🇸 USA/Canada
+*Technical Audit & Native Transition of a Real-Time Notification Ecosystem.*
+* **Native Migration:** Moving from a "WebView Gap" architecture to **React Native** to enable persistent background Geofencing and Push Notifications.
+* **Edge Computing:** Managing 50+ Deno Edge Functions for mission-critical business logic (auth, recommendations, queue processing).
+* **Optimization:** Migrating logic to **PostGIS/PostgreSQL** for instantaneous spatial data retrieval and POS readiness.
+
+#### 2. HappyKids.ai - 🇱🇺 Luxembourg
+*Lead Developer for an AI-powered educational platform.*
+* **Recognition:** Part of the team that reached the **Global Top 30 AI Social Impact** ranking.
+* **Architecture:** Built a scalable, trilingual interface with a focus on high accessibility and emotional learning tools.
+* **Fullstack Execution:** Orchestrated microservices using **Node.js and Django**, ensuring a robust backend for sensitive educational data.
+
+#### 3. Consulting Scheduler (Next.js SaaS) - 🇧🇷 Brazil
 *A high-performance SaaS for automated scheduling and AI-driven support.*
 * **AI-Powered:** Floating chat assistant with **semantic memory** using `pgvector` for context-aware responses.
-* **Financials:** Full Stripe integration (Elements & Webhooks) for real-time payment processing.
-* **Stack:** Next.js, React, Supabase, Deno Edge Functions.
-
-#### 2. Happy Kids Academy S.I.S. - 🇱🇺 Luxembourg
-*Leading the front-end for a multi-service educational platform.*
-* **Role:** Full-Stack Development Lead.
-* **Architecture:** Orchestrated a microservices environment using **Node.js, Django**.
-* **Impact:** Developed a trilingual, highly accessible interface for children and educators.
-* **website** https://happy-kids.lu/
-
-#### 3. AI SEO Analysis Chrome Extension - 🇨🇦 Canada
-*Browser-based tool for real-time SEO scoring.*
-* **Innovation:** Implemented scoring logic via DOM analysis using **Manifest V3**.
-* **Result:** A production-ready extension with a responsive UI prepared for OpenAI API scaling.
-
+* **Financials:** Full Stripe integration for real-time payment processing and subscription management.
 
 ---
-*"Combining military precision with modern software engineering to build high-impact digital products."*
+*"Combining military precision with AI-first engineering to build scalable, high-impact digital products."*
 ---
 
-### 🤖 Languages & Tools
+### 🤖 Tech Stack & Tools
 
 <table>
   <tr>
@@ -68,15 +59,12 @@ I specialize in building scalable, high-performance web applications. My core st
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/></td>
-    
   </tr>
 </table>
-  
 
-</div>
-
+---
 
 ### 📫 Connect with me
-* **Upwork:** Work with me https://www.upwork.com/freelancers/~01d2dbae59f1642147?viewMode=1
-* **LinkedIn:** Clariana Abreu https://www.linkedin.com/in/clariana-abreu-dev/
+* **Upwork:** [Work with me](https://www.upwork.com/freelancers/~01d2dbae59f1642147)
+* **LinkedIn:** [Clariana Abreu](https://www.linkedin.com/in/clariana-abreu-dev/)
 
